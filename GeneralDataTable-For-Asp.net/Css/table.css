@@ -1,0 +1,74 @@
+﻿.sub_table1
+{
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #c2f1d2;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 886px;
+}
+.sub_table1 thead
+{
+}
+.sub_table1 thead td
+{
+    background: none repeat scroll 0 0 #cbffc4;
+    border: 1px solid #c2f1d2;
+    color: #007b2b;
+    font-weight: bold;
+    height: 36px;
+    line-height: 36px;
+    padding-left: 20px;
+}
+.sub_table1 tbody
+{
+}
+.sub_table1 tbody th
+{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #fafff9;
+    border-color: #c2f1d2;
+    border-image: none;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    font-size: 12px;
+    height: 30px;
+    line-height: 30px;
+}
+.sub_table1 tbody td
+{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #c2f1d2;
+    border-image: none;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    font-size: 12px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0;
+}
+.sub_table1 tbody a:link, .sub_table1 tbody a:visited, .sub_table1 tbody a:active
+{
+    color: #06c;
+}
+.sub_table1 tbody a:hover
+{
+    color: #ff6600;
+}
+
+/*行间隔颜色*/
+.tdcolor
+{
+    background-color: #ccffcc;
+}
+
+.tdwhite
+{
+    background-color: White;
+}
+
